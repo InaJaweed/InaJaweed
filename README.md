@@ -14,7 +14,7 @@ Welcome to my GitHub profile! Here you'll find a blend of university coursework 
 
 ## Get in Touch
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/jaweedinayathulla/) 💼
-- Explore my projects on [GitHub](https://github.com/InaJaweed) 🚀
+- Explore my projects on [GitHub](https://github.com/InaJaweed?tab=repositories) 🚀
 
 ## ✨ Fun Facts
  - I play League of Legends
