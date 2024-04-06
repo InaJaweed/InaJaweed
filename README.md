@@ -1,16 +1,24 @@
-# Hi there! 👋 I'm Jaweed
+<h1 align="center"><b> Hi there! 👋 I'm Jaweed </b></h1>
 
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&height=100&lines=Computer+Science+Student;Active+Learner;Passionate+About+Coding" alt="Typing SVG" /></a>
+</p>
+
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 I'm a 21-year-old computer science student based in England, and I'm passionate about coding and tech.
-
-## About Me
-- 🎓 Third-year university student majoring in Computer Science
-- 💻 Passionate about coding, concentrating on university work and side projects
 - 🌐 Proficient in Python, C, C++, Java, HTML, CSS, and JavaScript
-- 🔍 Utilizing GitHub for version control and to showcase my project portfolio
 - 🌱 Always eager to learn, grow, and explore collaboration opportunities
 
-## About My GitHub
-Welcome to my GitHub profile! Here you'll find a blend of university coursework and passion projects, all aimed at demonstrating my programming and problem-solving skills.
+## **GitHub Stats**
+
+<div align="center">
+<a href="https://github.com/InaJaweed">
+  <img src="https://github-readme-stats.vercel.app/api?username=InaJaweed&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=InaJaweed&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="InaJaweed"/>
+</a>
+</div>
+
+<br>
 
 ## Get in Touch
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/jaweedinayathulla/) 💼
