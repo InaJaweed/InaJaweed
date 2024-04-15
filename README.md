@@ -26,4 +26,5 @@ I'm a 21-year-old computer science student based in England, and I'm passionate 
 ## ✨ Fun Facts
  - I play League of Legends
  - One Piece is my favourite anime
+
 Feel free to reach out for collaborations, discussions, or just to say hi! Thanks for visiting! 😊
