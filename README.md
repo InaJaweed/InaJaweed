@@ -6,18 +6,8 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 I'm a 21-year-old computer science student based in England, and I'm passionate about coding and tech.
-- 🌐 Proficient in Python, C, C++, Java, HTML, CSS, and JavaScript
+- 🌐 Passionate about learning C
 - 🌱 Always eager to learn, grow, and explore collaboration opportunities
-
-## **GitHub Stats**
-
-<div align="center">
-<img alt="Jaweed Ina GitHub stats" src="https://github-readme-stats.vercel.app/api?username=InaJaweed&show_icons=true&theme=tokyonight"/>
-<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=InaJaweed&layout=compact&&langs_count=8"/>
-</div>
-
-
-<br>
 
 ## Get in Touch
 - [![Linkedin Badge](https://img.shields.io/badge/-Jaweed_Inayathulla-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaweedinayathulla/)
