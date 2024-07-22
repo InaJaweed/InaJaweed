@@ -5,8 +5,8 @@
 </p>
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-I'm a 21-year-old computer science student based in England, and I'm passionate about coding and tech.
-- 🌐 Passionate about learning C
+I'm a 21-year-old graduate computer science student based in England, and I'm passionate about coding and tech.
+- 🌐 Passionate about learning C and Cyber Security
 - 🌱 Always eager to learn, grow, and explore collaboration opportunities
 
 ## Get in Touch
