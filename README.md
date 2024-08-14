@@ -5,8 +5,9 @@
 </p>
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-I'm a 21-year-old graduate computer science student based in England, and I'm passionate about coding and tech.
-- 🌐 Passionate about learning C and Cyber Security
+I'm a 21-year-old BSc computer science graduate based in England, and I'm passionate about coding and tech.
+- ❤️ Passionate about Software Engineering and Cyber Security
+- 🌐 Skills include C, Python, HTML, CSS and JavaScript 
 - 🌱 Always eager to learn, grow, and explore collaboration opportunities
 
 ## Get in Touch
@@ -16,5 +17,6 @@ I'm a 21-year-old graduate computer science student based in England, and I'm pa
 ## ✨ Fun Facts
  - I play League of Legends
  - One Piece is my favourite anime
+ - I love coding in C
 
 Feel free to reach out for collaborations, discussions, or just to say hi! Thanks for visiting! 😊
