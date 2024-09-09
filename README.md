@@ -17,6 +17,6 @@ I'm a 21-year-old BSc computer science graduate based in England, and I'm passio
 ## ✨ Fun Facts
  - I play League of Legends
  - One Piece is my favourite anime
- - I love coding in C
+ - I love coding in C, Python and Web Dev(HTML,CSS and JS)
 
 Feel free to reach out for collaborations, discussions, or just to say hi! Thanks for visiting! 😊
