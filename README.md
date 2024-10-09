@@ -18,5 +18,6 @@ I'm a 21-year-old BSc computer science graduate based in England, and I'm passio
  - I play League of Legends
  - One Piece is my favourite anime
  - I like coding in C
+ - Learning Arduino
 
 Feel free to reach out for collaborations, discussions, or just to say hi! Thanks for visiting! 😊
