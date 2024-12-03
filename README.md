@@ -7,7 +7,7 @@
 ## **About me**
 I'm a 21-year-old BSc computer science graduate based in England, and I'm passionate about coding and tech.
 - ❤️ Passionate about Coding
-- 🌐 Skills include C, Python, HTML, CSS and JavaScript 
+- 🌐 Skills include C, C++, Python, HTML, CSS, JavaScript and SQL
 - 🌱 Always eager to learn, grow, and explore collaboration opportunities
 
 ## Get in Touch
@@ -17,7 +17,7 @@ I'm a 21-year-old BSc computer science graduate based in England, and I'm passio
 ## ✨ Fun Facts
  - I play League of Legends
  - One Piece is my favourite anime
- - I like coding in C
+ - I like coding in C and C++
  - Learning Arduino
 
 Feel free to reach out for collaborations, discussions, or just to say hi! Thanks for visiting! 😊
