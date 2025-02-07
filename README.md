@@ -20,4 +20,7 @@ I'm a 21-year-old BSc computer science graduate based in England, and I'm passio
  - I like coding in C
  - Learning Arduino
 
+<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
+![](https://github-readme-stats.vercel.app/api?username=InaJaweed&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
 Feel free to reach out for collaborations, discussions, or just to say hi! Thanks for visiting! 😊
