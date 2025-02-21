@@ -17,8 +17,7 @@ I'm a 21-year-old BSc computer science graduate based in England, and I'm passio
 ## ✨ Fun Facts
  - I play League of Legends
  - One Piece is my favourite anime
- - I like coding in C
- - Learning Arduino
+ - Looking to Learning Arduino
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 ![](https://github-readme-stats.vercel.app/api?username=InaJaweed&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
