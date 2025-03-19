@@ -22,3 +22,9 @@
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 <!-- ![](https://github-readme-stats.vercel.app/api?username=InaJaweed&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
 Feel free to reach out for collaborations, discussions, or just to say hi! Thanks for visiting! 😊
+
+<!-- Github README stats from https://github-readme-stats-kappa-kohl-69.vercel.app -->
+<!--
+<p align="center">
+  <img align="center" height="170" src="https://github-readme-stats-kappa-kohl-69.vercel.app/api/top-langs/?username=InaJaweed&layout=compact&border_color=fabd2f&&theme=gruvbox&border_radius=11&hide=jupyter%20notebook,batchfile,makefile,rich%20text%20format&langs_count=6" />
+</p> -->
