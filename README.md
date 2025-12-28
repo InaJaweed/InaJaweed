@@ -7,7 +7,7 @@
 ## **About me**
 <!-- I'm a 21-year-old BSc computer science graduate based in England, and I'm passionate about coding and tech.  -->
 - ❤️ Passionate about Coding
-- 🌐 Skills include C, C++, Python, HTML, CSS, JavaScript and SQL
+<!-- - 🌐 Skills include C, C++, Python, HTML, CSS, JavaScript and SQL -->
 - 🌱 Always eager to learn, grow, and explore collaboration opportunities
 
 ## Get in Touch
